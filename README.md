@@ -1,5 +1,7 @@
 # pacman
 
+![](http://7xrthw.com1.z0.glb.clouddn.com/github-hexo1.png)
+
 
 ## Topic introduction
 Pacman is a flat and responsive design theme for [Hexo](http://hexo.io).
